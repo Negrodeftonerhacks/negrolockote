@@ -1,0 +1,2 @@
+# negrolockote
+Manejar todo
